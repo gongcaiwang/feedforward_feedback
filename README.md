@@ -5,4 +5,10 @@ this repo corresponds the speech decoding framework corresponding to the paper "
 "speech_synthesizer/" folder is for speech decoding model trainig and testing. Please refer to "speech_synthesizer/README.md" file for more details.
 
 ## feedforward and feedback analysis
-"fig3.m", "fig4.m", "fig5.m" are the script for the feedforward and feedback analysis that relates to the main figure 3,4 and 5 in the manuscript.
+"fig3.m", "fig4.m", "fig5.m" are the script for the feedforward and feedback analysis that relates to some main of the plots in the paper.
+
+"fig3.m" relates to "Figure 3", the feedforward and feedback contribution analysis.
+
+"fig4.m" relates to "Figure 4", Spatial-temporal receptive fields based on decoding contribution.
+
+"fig5.m" relates to "Figure 5", The temporal receptive field across anatomical regions.

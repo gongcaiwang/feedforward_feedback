@@ -1,6 +1,6 @@
 # feedforward_feedback
 
-this repo corresponds the speech decoding framework corresponding to the paper "Distributed Feedforward and Feedback Cortical Processing Supports Human Speech Production" https://www.biorxiv.org/content/10.1101/2021.12.06.471521v1.
+this repo corresponds the speech decoding framework in the paper "Distributed Feedforward and Feedback Cortical Processing Supports Human Speech Production" https://www.biorxiv.org/content/10.1101/2021.12.06.471521v1.
 ## speech decoding 
 "speech_decoding/" folder is for speech decoding model trainig and testing. Please refer to "speech_decoding/README.md" for more details.
 

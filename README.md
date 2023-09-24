@@ -5,7 +5,7 @@ this repo corresponds the speech decoding framework in the paper "Distributed Fe
 "speech_decoding/" folder is for speech decoding model trainig and testing. Please refer to "speech_decoding/README.md" for more details.
 
 ## feedforward and feedback analysis
-"fig3.m", "fig4.m", "fig5.m" are the script for the feedforward and feedback analysis that relates to some of the main plots in the paper.
+"fig3.m", "fig4.m", "fig5.m" are the script for the feedforward and feedback analysis that relates to some of the main plots in the paper. Matlab version 2016b.
 
 "fig3.m" relates to "Figure 3", the feedforward and feedback contribution analysis.
 
